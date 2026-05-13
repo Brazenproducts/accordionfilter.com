@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://accordionfilter.com/sitemap.xml
